@@ -188,3 +188,6 @@ C:\Users\plk069492\source\repos\University-master\ContosoUniversity\obj\Debug\Co
 C:\Users\plk069492\source\repos\University-master\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
 C:\Users\plk069492\source\repos\University-master\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
 C:\Users\plk069492\source\repos\University-master\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.cache
+C:\Users\plk069492\source\repos\University-master\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\plk069492\source\repos\University-master\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
+C:\Users\plk069492\source\repos\University-master\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
