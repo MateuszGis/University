@@ -191,3 +191,4 @@ C:\Users\plk069492\source\repos\University-master\ContosoUniversity\obj\Debug\Co
 C:\Users\plk069492\source\repos\University-master\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
 C:\Users\plk069492\source\repos\University-master\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ColumnFirstName.resources
 C:\Users\plk069492\source\repos\University-master\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+C:\Users\plk069492\source\repos\University-master\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
